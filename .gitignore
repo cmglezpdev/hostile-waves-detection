@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+artifacts/
+config_runtime.txt
+examples/
+Base_Datos/
